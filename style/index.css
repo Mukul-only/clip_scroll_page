@@ -93,6 +93,7 @@ a{
     top:0;
     opacity:1;
     
+    
 }
 #navigation{
     display:flex;
@@ -161,6 +162,7 @@ a{
     padding:1% 10%;
     display:flex;
     justify-content: start;
+    
 }
 .title-content{
    display:flex;
@@ -168,6 +170,7 @@ a{
    justify-content: space-between;
    width:40%;
    padding:100px 0 0;
+   
 }
 .title{
     font-family: 'Montserrat', sans-serif;
@@ -183,7 +186,6 @@ a{
 .title-btn{
     margin-top:80px;
 }
-
 @media (max-width:992px) {
     .title-content{
         width:60%;
