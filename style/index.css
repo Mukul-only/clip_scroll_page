@@ -183,3 +183,15 @@ a{
 .title-btn{
     margin-top:80px;
 }
+
+@media (max-width:992px) {
+    .title-content{
+        width:60%;
+    }
+    .title{
+        font-size:2.4rem;
+    }
+    .para{
+        font-size:1rem;
+    }
+}
